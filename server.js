@@ -4,7 +4,7 @@ var app = express();
 var con = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'tracoph',//password for mysql database.
+  password: 'password',//password for mysql database.
   database: 'students'
 
 
